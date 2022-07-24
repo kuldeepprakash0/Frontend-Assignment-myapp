@@ -1,3 +1,16 @@
+follow these steps:
+1. download the project code and extract it into a specific folder.
+2. install vs code and open it with vs code.
+3. add live server extension in vs code.
+4. open vs code terminal and install node_module by npm I node command.
+5. run these commands one by one:
+    npm i axios --save  
+    npm add react-router-dom@5
+6. Now only open the build folder in vs code and hit go live or run npm start 
+
+now you can see the project in browser
+
+________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
